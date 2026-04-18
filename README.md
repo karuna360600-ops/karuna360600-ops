@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Karuna kumari shrestha
+UI/UX Designer
 
-<!--
-**karuna360600-ops/karuna360600-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i design clean and user-friendly interfaces using Figma and currently building UI projects and learning UX principles.
 
-Here are some ideas to get you started:
+skills
+1.Figma
+2.Wireframing
+3.prototyping
+4.UI Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+projects
+1.Food Delivery App UI
+2.E-commerce UI
+3.Dashboard UI
+
+contact: karuna360600@gmail.com
