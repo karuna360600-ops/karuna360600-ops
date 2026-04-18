@@ -15,4 +15,4 @@ I design clean and user-friendly interfaces using Figma and currently building U
 3.Dashboard UI
 
 ## contact
-Email:karuna360600@gmail.com
+Email: karuna360600@gmail.com
