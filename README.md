@@ -1,7 +1,11 @@
 ## Hi, I'm Karuna kumari shrestha
 ### UI/UX Designer
 
-I design clean and user-friendly interfaces using Figma and currently building UI projects and learning UX principles.
+I design clean and user-friendly interfaces using Figma.
+currently building UI projects and learning UX principles.
+
+
+---
 
 ## skills
 1.Figma
@@ -9,10 +13,15 @@ I design clean and user-friendly interfaces using Figma and currently building U
 3.prototyping
 4.UI Design
 
+---
+
 ## projects
 1.Food Delivery App UI
 2.E-commerce UI
 3.Dashboard UI
+
+
+---
 
 ## contact
 Email: karuna360600@gmail.com
